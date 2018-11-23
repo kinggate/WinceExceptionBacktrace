@@ -1,0 +1,23 @@
+*.exp
+*.pch
+*.dep
+*.obj
+*.APS
+*.ncb
+*.suo
+*.idb
+*.pdb
+
+*.cod
+*.map
+
+*.log
+*.old
+*.user
+*.exe
+*.vsprops
+*.htm
+*.intermediate.manifest
+
+MT3360 (ARMV4I)/Release/*
+MT3360 (ARMV4I)/Debug/*

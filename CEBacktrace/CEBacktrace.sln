@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CEBacktrace", "CEBacktrace.vcproj", "{3A8EB72E-8E09-405E-82AE-B5C1576028DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|MT3360 (ARMV4I) = Debug|MT3360 (ARMV4I)
+		Release|MT3360 (ARMV4I) = Release|MT3360 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8EB72E-8E09-405E-82AE-B5C1576028DA}.Debug|MT3360 (ARMV4I).ActiveCfg = Debug|MT3360 (ARMV4I)
+		{3A8EB72E-8E09-405E-82AE-B5C1576028DA}.Debug|MT3360 (ARMV4I).Build.0 = Debug|MT3360 (ARMV4I)
+		{3A8EB72E-8E09-405E-82AE-B5C1576028DA}.Debug|MT3360 (ARMV4I).Deploy.0 = Debug|MT3360 (ARMV4I)
+		{3A8EB72E-8E09-405E-82AE-B5C1576028DA}.Release|MT3360 (ARMV4I).ActiveCfg = Release|MT3360 (ARMV4I)
+		{3A8EB72E-8E09-405E-82AE-B5C1576028DA}.Release|MT3360 (ARMV4I).Build.0 = Release|MT3360 (ARMV4I)
+		{3A8EB72E-8E09-405E-82AE-B5C1576028DA}.Release|MT3360 (ARMV4I).Deploy.0 = Release|MT3360 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
